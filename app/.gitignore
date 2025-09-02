@@ -25,7 +25,6 @@ local.properties
 # Log/OS files
 *.log
 *.log.*
-*.log.*
 *.log.*.*
 *.log.*.*.*
 .navigation/
